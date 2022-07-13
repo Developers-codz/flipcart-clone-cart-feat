@@ -1,0 +1,87 @@
+{
+    "products":[
+      {
+        "id":"1",
+        "name":"Solid Men Quilted Jacket",
+        "brand":"adidas",
+        "category":"men",
+        "sizes":["M","L"],
+        "price":"2599",
+        "original":"3000",
+        "image":"https://rukminim1.flixcart.com/image/800/960/kiyw9e80/jacket/t/z/j/m-gh4577-adidas-original-imafyhvtmnaegafg.jpeg?q=50"
+      },
+      {
+        "id":"2",
+        "name":"Women Kurta and Palazzo Set ",
+        "brand":"mokshi",
+        "category":"women",
+        "sizes":["S","M","L"],
+        "price":"799",
+        "original":"1000",
+        "image":"https://rukminim1.flixcart.com/image/496/595/kiqbma80-0/ethnic-set/h/x/d/xl-mkp133wht-mokshi-original-imafygay6qnnravh.jpeg?q=50"
+      },
+      {
+        "id":"3",
+        "name":"Printed Men Sports Jacket",
+        "brand":"adidas",
+        "category":"men",
+        "sizes":["S","L"],
+        "price":"1599",
+        "original":"2500",
+        "image":"https://rukminim1.flixcart.com/image/800/960/kngd0nk0/jacket/z/h/g/m-gq1198-adidas-original-imag24shpgcpamqk.jpeg?q=50"
+
+      },
+      {
+        "id":"4",
+        "name":"Women Kurta and Palazzo Set ",
+        "brand":"mokshi",
+        "category":"women",
+        "sizes":["S","L"],
+        "price":"685",
+        "original":"900",
+        "image":"https://rukminim1.flixcart.com/image/496/595/kl421e80/ethnic-set/p/u/j/xxl-mkp155grn-mokshi-original-imagyb3hgm3d6h9v.jpeg?q=50"
+
+      },
+      {
+        "id":"5",
+        "name":"Anarkali Gown  (Pink)",
+        "brand":"mokshi",
+        "category":"children",
+        "sizes":["S","L"],
+        "price":"455",
+        "original":"700",
+          "image":"https://rukminim1.flixcart.com/image/496/595/kgb5rbk0/gown/8/6/8/14-14-15-years-sleeveless-semi-stitched-84581-m-r-a-fashion-15-original-imafwktmnunyhm4q.jpeg?q=50"
+      },
+      {
+        "id":"6",
+        "name":"Boys Casual Shirt Pant ",
+        "brand":"adidas",
+        "category":"children",
+        "sizes":["S","L"],
+        "price":"400",
+        "original":"1000",
+          "image":"https://rukminim1.flixcart.com/image/496/595/l34ry4w0/kids-apparel-combo/a/t/t/1-2-years-star-blue-black-oh-12-18-months-mafia-the-style-original-imagebdnbwaddd5r.jpeg?q=50"
+
+      },
+      {
+          "id":"7",
+          "name":"Solid Women Round Neck Red T-Shirt",
+          "brand":"nike",
+          "category":"women",
+          "sizes":["S","L"],
+          "price":"1122",
+          "original":"1899",
+          "image":"https://rukminim1.flixcart.com/image/496/595/l2rwzgw0/t-shirt/d/r/g/s-aq3211-610-nike-original-imagefmzuvqnvxtj.jpeg?q=50"
+      },
+      {
+        "id":"8",
+        "name":"Solid Men Polo Neck White T-Shirt",
+        "brand":"nike",
+        "category":"men",
+        "sizes":["S","L","M"],
+        "price":"1500",
+        "original":"2000",
+        "image":"https://rukminim1.flixcart.com/image/496/595/kzllrbk0/t-shirt/o/9/z/m-dh0858-100-nike-original-imagbkrprnmajax7.jpeg?q=50"
+    }
+      ]
+  }

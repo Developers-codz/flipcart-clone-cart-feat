@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-light-bg);
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root{
+  --color-blue-1000:#2874f0;
+  --color-light:white;
+  --color-light-bg:#f0f0f0;
+  --color-yellowish-orange:#ff9f00;
 }

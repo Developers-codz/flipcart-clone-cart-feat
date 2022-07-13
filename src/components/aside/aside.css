@@ -1,0 +1,29 @@
+.aside-container{
+    grid-area: aside;
+    background-color: var(--color-light);
+    width:17rem;
+    height:80vh;
+    margin:0 .5rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+.filter-text{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    padding: 1rem;
+    border-bottom: 1px solid var(--color-light-bg);
+}
+.filter-text > button{
+    cursor: pointer;
+    background-color: var(--color-light-bg);
+    border: none;
+    font-size: .8rem;
+}
+.filter-text > button:hover{
+transform:translateY(2px);
+}
+.filter-wrapper{
+    padding:0.4rem 1rem;
+}
+
