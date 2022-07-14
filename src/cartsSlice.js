@@ -40,6 +40,15 @@ const cartsSlice = createSlice({
             state.savelater = [...state.savelater,action.payload]
         }
     },
+    removeFromSaveLater:(state,action)=>{
+      state.savelater = state.savelater.filter(item => item.id !==action.payload)
+    },
+    addCartFromSaveHandler:(state,action) =>{
+      state.savelater = state.savelater.filter(item => item.id !== action.payload.id)
+      if(!state.cart.find(item => item.id === action.payload.id)){
+        state.cart = [...state.cart,action.payload]
+    }
+    }
   },
 });
 
@@ -50,4 +59,6 @@ export const {
   qtyIncreaseHandler,
   qtyDecreaseHandler,
   addToSaveLaterHandler,
+  removeFromSaveLater,
+  addCartFromSaveHandler
 } = cartsSlice.actions;
